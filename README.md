@@ -1,5 +1,5 @@
 ## plugins
-- typescript(@babel/preset-typescript)
+- typescript(@babel/preset-typescript)
 - styled-components
 - react-hot-loader
 - react-router(configs)
