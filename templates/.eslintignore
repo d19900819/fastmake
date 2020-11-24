@@ -1,0 +1,12 @@
+node_modules
+**/*.d.ts
+.app
+dist
+main.js
+configs
+pexrtc.js
+*Render.js
+*output
+scripts/*
+*.js
+configs
